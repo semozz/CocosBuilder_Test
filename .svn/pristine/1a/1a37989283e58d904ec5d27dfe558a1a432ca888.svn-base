@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 74e5b4eb024fbd458fc0c0dea304f1a293e8ab15 askoma <psdcgba@hotmail.com> 1385102449 +0900	commit (initial): 1st commit. downloaded from cocosbuilder.com
+74e5b4eb024fbd458fc0c0dea304f1a293e8ab15 2ef9582c569035c461695568316620bfb1aa5219 askoma <psdcgba@hotmail.com> 1385434917 +0900	commit: 일단 작동되는 버전 커밋. 릴리즈 빌드가 안됨.
+2ef9582c569035c461695568316620bfb1aa5219 54775f0922b462eecf937894f7a14398fe1295ce askoma <psdcgba@hotmail.com> 1385435238 +0900	commit: project setting 변경. (xcode warning에 따라)->릴리즈빌드 가능
+74e5b4eb024fbd458fc0c0dea304f1a293e8ab15 5e03f403255642c0940b4fa2f5d5b60c515be674 askoma <psdcgba@hotmail.com> 1385605378 +0900	commit: MenuItem의 normal, selected, disabled sprite가 선택되지 않도록 수정. Visible false인 노드도 선택되지 않도록 수정.
+5e03f403255642c0940b4fa2f5d5b60c515be674 52ff08eb0f6651b13174bbb95930f2fe757537cf askoma <psdcgba@hotmail.com> 1385632992 +0900	commit: 윈도우 크게.
+52ff08eb0f6651b13174bbb95930f2fe757537cf 6ffc84578620eec91f20e3902ee38d7cb6154f8f askoma <psdcgba@hotmail.com> 1385690791 +0900	commit: timeline popup 위치 수정
